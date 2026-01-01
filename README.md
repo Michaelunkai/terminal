@@ -22,7 +22,7 @@ A real-time web-based terminal that provides remote access to your machine's ter
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/michalzalewski32/terminal.git
+git clone https://github.com/Michaelunkai/terminal.git
 cd terminal
 ```
 
