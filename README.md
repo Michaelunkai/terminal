@@ -2,9 +2,9 @@
 
 A real-time web-based terminal that provides remote access to your machine's terminal from anywhere through a browser.
 
-## Live Demo
+## Repository
 
-**[Open Web Terminal](https://terminal-xxxx.onrender.com)** *(URL will be updated after deployment)*
+**[GitHub Repository](https://github.com/Michaelunkai/terminal)**
 
 ## Features
 
